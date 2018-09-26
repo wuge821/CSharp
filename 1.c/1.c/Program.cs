@@ -10,7 +10,7 @@ namespace _1.c
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("您好，我是C#");
+            Console.WriteLine("您好i，我是C#");
             Console.ReadKey();
         }
     }
