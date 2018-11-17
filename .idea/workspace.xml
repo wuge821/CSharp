@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf83357-3b87-4872-a353-e63448225e1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test3/img/QQ截图20181030230518.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/img/QQ截图20181030230609.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/img/QQ截图20181030230625.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/img/QQ截图20181030230637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/LCS.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/Match.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/RWord.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/modify.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/test3/test3.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/国考_原题.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/国考_标准答案1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/国考_标准答案2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/国考_标准答案3.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3/说明.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +40,7 @@
     <session id="1076352692">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -94,13 +75,13 @@
           <entry key="hhhh" value="4" />
           <entry key="md" value="40" />
           <entry key="sln" value="2" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="19" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="PLAIN_TEXT" value="65" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -303,15 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539652872953</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="作业3">
+      <created>1540957957296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540957957296</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="3414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1575067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,7 +340,8 @@
     <MESSAGE value="qq" />
     <MESSAGE value="测试" />
     <MESSAGE value="作业2" />
-    <option name="LAST_COMMIT_MESSAGE" value="作业2" />
+    <MESSAGE value="作业3" />
+    <option name="LAST_COMMIT_MESSAGE" value="作业3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test1/test1.sln" />
